@@ -1,0 +1,6 @@
+youtube_transcript_api
+streamlit
+google-generativeai
+python-dotenv
+pathlib
+fsspec[http]>=2023.1.0,<2024.2.1
